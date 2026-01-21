@@ -49,7 +49,7 @@ public class Address{
         this.zip = zip;
     }
 
-    /**returns the Street number as a String*/
+    /**Returns the Street number as a String*/
     public String getStreetNum() {
         return streetNum;
     }
