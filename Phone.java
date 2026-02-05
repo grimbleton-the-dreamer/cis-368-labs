@@ -1,4 +1,5 @@
 //needs documentation
+//look in Address.java for formatting
 public class Phone{
     private String areaCode;
     private String exchange;
