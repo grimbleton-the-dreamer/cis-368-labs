@@ -1,4 +1,6 @@
 
+//needs documentation
+//look in Address.java for formatting
 public class PersonalInfo {
     private Name name = new Name();
     private Address address = new Address();

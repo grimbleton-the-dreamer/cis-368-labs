@@ -1,4 +1,4 @@
-
+//needs documentation
 public class Phone{
     private String areaCode;
     private String exchange;

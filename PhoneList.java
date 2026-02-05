@@ -1,4 +1,6 @@
 
+//needs documentation
+//look in Address.java for formatting
 import java.util.ArrayList;
 public class PhoneList {
     private ArrayList<Phone> phoneArray = new ArrayList<Phone>() ;
